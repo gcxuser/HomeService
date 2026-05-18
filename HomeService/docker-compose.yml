@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  homeservice:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: homeservice
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgresql://homeservice:homeservice@db:5432/homeservice
+      - API_SECRET_KEY=${API_SECRET_KEY:-your-super-secret-key-change-in-production}
+      - LLM_PROVIDER=${LLM_PROVIDER:-claude}
+      - LLM_API_KEY=${LLM_API_KEY:-}
+      - LLM_MODEL_NAME=${LLM_MODEL_NAME:-claude-3-5-sonnet-20241022}
+      - DEBUG=${DEBUG:-false}
+      - LOG_LEVEL=${LOG_LEVEL:-INFO}
+    depends_on:
+      - db
+    restart: unless-stopped
+
+  db:
+    image: postgres:15-alpine
+    container_name: homeservice-db
+    environment:
+      - POSTGRES_USER=homeservice
+      - POSTGRES_PASSWORD=homeservice
+      - POSTGRES_DB=homeservice
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    restart: unless-stopped
+
+  cache:
+    image: redis:7-alpine
+    container_name: homeservice-cache
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+
+volumes:
+  postgres_data:

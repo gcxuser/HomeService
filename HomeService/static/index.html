@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>HomeService 家政服务</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>HomeService 家政服务智能预约</h1>
+      <p>前端示例页面，支持用户注册、报价、订单、咨询、MCP 地址解析。</p>
+    </header>
+
+    <section class="card">
+      <h2>用户注册</h2>
+      <div class="form-grid">
+        <input id="userName" placeholder="姓名" />
+        <input id="userPhone" placeholder="手机号" />
+      </div>
+      <button onclick="createUser()">创建/获取用户</button>
+      <pre id="userResult"></pre>
+    </section>
+
+    <section class="card">
+      <h2>地址绑定</h2>
+      <div class="form-grid">
+        <input id="addressUserId" placeholder="用户ID" />
+        <input id="city" placeholder="城市" />
+        <input id="district" placeholder="区" />
+        <input id="community" placeholder="小区" />
+        <input id="detailAddress" placeholder="详细地址" />
+      </div>
+      <button onclick="addAddress()">添加地址</button>
+      <pre id="addressResult"></pre>
+    </section>
+
+    <section class="card">
+      <h2>智能报价</h2>
+      <div class="form-grid">
+        <input id="quoteServiceType" placeholder="服务类型，例如 daily_cleaning" />
+        <input id="quoteArea" placeholder="面积" />
+      </div>
+      <button onclick="getQuote()">获取报价</button>
+      <pre id="quoteResult"></pre>
+    </section>
+
+    <section class="card">
+      <h2>下单预约</h2>
+      <div class="form-grid">
+        <input id="orderUserId" placeholder="用户ID" />
+        <input id="orderAddressId" placeholder="地址ID" />
+        <input id="orderServiceItemId" placeholder="服务项ID" />
+        <input id="orderStart" type="datetime-local" />
+        <input id="orderEnd" type="datetime-local" />
+        <input id="orderEstimatedPrice" placeholder="预估价格" />
+        <input id="orderFinalPrice" placeholder="最终价格" />
+      </div>
+      <button onclick="createOrder()">创建订单</button>
+      <pre id="orderResult"></pre>
+    </section>
+
+    <section class="card">
+      <h2>知识问答</h2>
+      <textarea id="chatMessage" rows="3" placeholder="请输入问题，例如: 家电清洗有哪些服务内容？"></textarea>
+      <button onclick="sendChat()">发送咨询</button>
+      <pre id="chatResult"></pre>
+    </section>
+
+    <section class="card">
+      <h2>MCP 地址解析</h2>
+      <div class="form-grid">
+        <input id="mcpCity" placeholder="城市" />
+        <input id="mcpDistrict" placeholder="区" />
+        <input id="mcpCommunity" placeholder="小区" />
+        <input id="mcpDetail" placeholder="详细地址" />
+      </div>
+      <button onclick="locateAddress()">解析地址</button>
+      <pre id="mcpResult"></pre>
+    </section>
+  </div>
+  <script src="/app.js"></script>
+</body>
+</html>

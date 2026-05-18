@@ -1,0 +1,2802 @@
+[
+  {
+    "original_text": "请问下单家政。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "杭州安排家政项目一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "下单上门保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "下单保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约时间可以改吗一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "最近的内容",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "下单取消流程撤回",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想下单深度保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "换个时段",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "有哪些保洁项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问老客户优惠一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我下个保洁单子。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想改预约时间谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我取消订单谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想预定深度保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "取消预定",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想推荐服务谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想有哪些保洁服务",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我保洁都能做什么。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "取消这次预约撤回。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我上次做了什么服务一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "修改预定一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想能不能换一个时间谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想安排保洁服务。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问怎么计费",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问取消上门内容",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问内容定价",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预定家政保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "推荐清洁服务",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预定时间调整。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "你们提供哪些服务谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问家政预约。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约深度保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我改个时间谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "取消项目预定谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "内容有哪些类别谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想预约作废",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "能提供什么服务一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问取消预约。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "服务价格表详情。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想改下单时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问项目有哪些类别",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想服务范围是什么。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "叫一个保洁上门高质量。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "服务项目有哪些",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务价格表一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问北京下单保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "不做了，取消预约谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我预约的服务能取消吗谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "服务包括哪些内容谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我安排一次保洁高质量谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "内容项目有哪些",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想清洁预定",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "订一个保洁服务谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问修改预约谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "保洁预约",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我安排的服务能取消吗",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问叫一个保洁上门",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "怎么计费项目一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我项目包括哪些内容详细。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "取消预约一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想预约家政保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问有什么好推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我我想预约一个保洁服务，怎么操作一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我订一个保洁服务一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约时间可以改吗",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "安排要改期谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "服务怎么收费清单",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约要改期谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "保洁预约",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问安排深度保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我上次做了什么服务看看一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预约清洁内容一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "能提供什么内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我内容范围是什么",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问能提供什么项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问下个保洁单子谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约时间调整谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "预约时间可以改吗延后。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问预定作废一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "改约服务时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想预约时间有变动变更",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想收费价格",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想预约时间有变动延后",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": " cancellation",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "取消预约订单。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我有什么项目一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问可以预约保洁吗谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想服务项目有哪些项目。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "老客户优惠推荐一下谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问预定家政保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想我上次做了什么服务一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我取消上门内容一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想预约家政项目",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想能不能换一个时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问预约要改期",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "预约的内容能取消吗谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "服务有哪些类别谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我安排时间可以改吗一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "清洁都能做什么",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "取消预约",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "叫一个保洁上门",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问下单家电清洗一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问改个时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想取消这次预定",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问变更预约",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我要预约保洁服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "取消这个家政预约一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我内容类型",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "内容类型",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问取消这次预定",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "能提供什么服务一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "叫一个保洁上门高质量谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问取消项目谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问会员内容",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我内容有哪些类别一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问修改预约",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "保洁预定",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "项目有哪些类别谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我服务推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "内容推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "取消订单",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想取消预约的内容一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "预约家政内容需要什么流程",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": " cancellation一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我保洁预约。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我我要下单保洁服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "收费价格内容一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想服务价格表。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我内容包括哪些内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想 cancellation",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "有什么服务",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "取消服务删掉。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "有什么服务项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想清洁推荐内容一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问下个保洁单子一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "内容项目有哪些一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "安排日常保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "推荐家政内容",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问下单时间有变动。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "会员服务。",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想改约时间换个时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我预约开荒保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问内容有哪些类别",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "取消保洁",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我订一个保洁服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我下单时间可以改吗",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我安排一次保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我内容定价",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "改预约时间变更",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问保洁推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "怎么计费项目一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约不作了撤回",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "预约家政一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "需要下单一个保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想服务项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约日常保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问换时间安排。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想内容范围是什么",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我你们提供哪些项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "内容范围是什么具体一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我预约时间变了谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问改个时间谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想预约一个保洁内容，怎么操作",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问费用多少清单",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想取消订单。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想周末下单清洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问我想取消预约的服务",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想内容项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约的项目能取消吗谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我 cancellation作废",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "这周预约保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问我上次做了什么服务",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想预约一次家政",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问保洁预约一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约家政保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问最近的服务谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "保洁预约谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想项目包括哪些内容明细谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我我想改约时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我项目项目有哪些",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "改预约。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我保洁预约",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "收费价格",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "周末预约家政",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问安排作废",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想预定要改期变更",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "取消这次预约。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问预约的服务能取消吗",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": " cancellation",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我周末预约家政一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我内容定价谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "能提供什么服务",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "内容记录谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想家政预约",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "内容定价",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想预约取消流程谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想服务定价。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想推荐老客户。",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想安排不作了谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我服务项目有哪些。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我项目价格表。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "推荐家政服务介绍家政",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "内容定价谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想推荐保洁",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "能提供什么项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想我想预约一个保洁内容，怎么操作",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我有什么好推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想上门保洁下单一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想预约清洁服务谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问杭州预约家政服务。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "安排一次保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想取消订单",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想取消预约订单一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想家政推荐谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "内容项目谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "保洁推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预约不作了谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问修改预约",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "上海家政安排",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想内容范围是什么谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约一次保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想预定时间变了。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想上门保洁预定一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问取消安排订单不做了",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "取消家政",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我杭州预约家政项目",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预定不作了",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我叫一个保洁上门",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我北京安排保洁高质量",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想取消上门服务谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "服务有哪些类别",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我你们提供哪些内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "改预约时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "取消订单一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "预约日常保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "需要预约一个保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问改预约时间。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "订一个保洁服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "有哪些保洁服务",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我怎么计费。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "下周预定保洁服务专业",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "清洁预定",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "需要预约一个保洁上门一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "项目种类",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "能提供什么项目具体。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想预约上门保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "之前安排的时间可以改吗",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我有什么好推荐一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "明天安排一个保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "费用多少",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务种类谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务定价一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "取消保洁",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "预定时间可以改吗",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想服务怎么收费详情",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想修改预约。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "广州保洁预约",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "收费价格介绍",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我预约家政服务需要什么流程一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "有什么内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "内容定价",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我上次做了什么内容好的。",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问预定深度保洁上门",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想预约时间有变动一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "周末下单家政",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想下周下单保洁内容一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我预约时间需要调整一下一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "服务包括哪些内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我改预定",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "预定深度保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "有什么服务。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我能不能换一个时间。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "内容范围是什么一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问明天预定一个保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "换个时段",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "服务项目。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想预约一个保洁服务，怎么操作",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我取消下单订单谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "会员内容",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我服务类型",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我推荐服务",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "内容价格表",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想预约一个保洁服务，怎么操作保洁员",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我预约日常保洁上门",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我保洁下单",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问服务项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我费用多少",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "能不能换一个时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "需要预约一个保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "你们提供哪些服务。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想我上次做了什么服务",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问项目价格表。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想内容价格表一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我清洁预约。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想有什么好推荐看看",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想安排清洁内容。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "项目类型",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问费用多少",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我你们提供哪些内容谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "项目怎么收费",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我安排上门保洁优质",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想取消内容预约谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "项目种类",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我老客户优惠",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预约保洁服务需要什么流程靠谱谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想杭州预约家政服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想北京安排保洁阿姨一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想服务定价谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想服务价格表。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约时间有变动谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "预约要改期",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问有什么内容一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务包括哪些内容。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我预约家政服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "家政推荐谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我取消服务",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "家政都能做什么",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想你们提供哪些内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "之前预定的时间可以改吗",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "预约完后怎么付款谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我家政安排。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "保洁推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我家政都能做什么详细。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问有什么服务",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "内容范围是什么。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "老客户优惠介绍",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想叫一个保洁上门靠谱",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想最近的服务谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "安排家政服务需要什么流程",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "下单时间有变动。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问改个时间谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "取消家政",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "安排一次保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "费用多少",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务怎么收费一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约家政内容",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问服务项目一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "取消保洁",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "取消服务不要了一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想取消清洁",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "取消这次预约",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问内容范围是什么。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想杭州下单家政服务一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "取消内容",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "预约家电清洗",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问有哪些保洁服务",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约时间可以改吗",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "服务种类",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想下单家政项目谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约日常保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "服务项目有哪些说明",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想我想下单家政项目谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "清洁推荐一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想取消预约的内容。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "项目项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我改预约一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "取消内容安排",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我我要预约保洁服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问怎么计费具体一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "再次购买",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "服务定价",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我清洁都能做什么",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问可以预约保洁吗专业",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我有什么推荐一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "保洁推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我你们提供哪些服务。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我保洁都能做什么",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务推荐看看",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问项目项目有哪些谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "安排一次保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我预约保洁保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "取消订单。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问预约时间调整谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我预约日常保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "取消保洁谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想我要下单保洁服务一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想预约完后怎么付款谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "以前的订单推荐一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "你们提供哪些内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "改预约时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "预定保洁保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想下个保洁单子。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我怎么计费具体",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想安排上门保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "项目记录好的一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我推荐老客户谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "怎么计费介绍",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我推荐服务推荐一下。",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "取消保洁一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想有什么项目。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "改约项目时间调整",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": " cancellation一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我复购内容谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问服务项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "最近的内容",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问保洁推荐谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问服务项目一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "费用多少。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "安排保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "服务种类。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我能不能换一个时间一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想我要预约保洁服务。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我项目有哪些类别说明谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "能提供什么服务",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我这周预约保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "服务有哪些类别",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务项目明细谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "不做了，取消预定一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问下单一次家政。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "有哪些保洁项目谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "推荐家政内容",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预约日常保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "有哪些保洁内容项目一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务怎么收费",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "改个时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我服务项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "内容记录",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "推荐项目谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想我想取消预约的项目不要了谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我周末预约家政高质量一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "下单家电清洗",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "服务范围是什么谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "家政推荐。",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "以前的订单",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预约作废",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问下个保洁单子一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约开荒保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "内容定价",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想改约时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我服务价格表谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问我上次做了什么服务一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预约深度保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问复购项目",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我我想改约时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想项目项目有哪些",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我改个时间。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想费用多少一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "清洁推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问预约作废撤回",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想服务项目有哪些",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约时间有变动一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "收费价格",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务怎么收费一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "订一个保洁服务谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想修改安排调整谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "下单保洁安排在什么时候",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我预约家政项目需要什么流程",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我的历史订单",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我取消这次预定谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问复购服务推荐一下谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "这周预约保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想家政推荐项目",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "安排取消流程。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问服务种类",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问修改预约",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "预约保洁保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "上海家政安排优质谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我项目项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务有哪些类别",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想改预约",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想改下单时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "保洁预约。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问我想预约一个保洁项目，怎么操作",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "服务包括哪些内容谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "项目价格表",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想预约时间可以改吗延后谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问怎么计费",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我明天预约一个保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "推荐几次服务一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我明天预约一个保洁上门一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想安排一次保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": " cancellation谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我下个保洁单子",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我改个时间谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想预约深度保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "以前的订单一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "不做了，取消预约。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我要预约保洁项目一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想叫一个保洁上门正规一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "以前的订单",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "收费价格一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "修改预约改。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问服务项目有哪些谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我下周预约保洁服务。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想有什么好推荐",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问最近的内容一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "内容有哪些类别",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预定时间需要调整一下一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "预定开荒保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "杭州预约保洁服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我项目价格表",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问预约时间有变动。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我上次做了什么服务",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我的历史订单谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "改下单",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "你们提供哪些服务",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "之前预约的时间可以改吗延后谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我上海家政下单一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想预约作废一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "内容定价谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "推荐几次项目一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我取消内容",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "内容范围是什么一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问周末下单清洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "有什么服务",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问预定时间调整",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "你们提供哪些内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问内容怎么收费",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约时间调整调整。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "预约需要改期一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问叫一个保洁上门谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想推荐内容。",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问下单保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "下单开荒保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "保洁下单",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想改约时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "上门保洁预约。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约完后怎么付款。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约一次家政。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "取消这个家政预定。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "不做了，取消预约一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想下单家电清洗",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想项目范围是什么一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "项目价格表一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想改约服务时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问能不能换一个时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想预定取消流程一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想预约需要改期。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我再次购买介绍一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "推荐老客户推荐一下一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想我的历史订单一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "最近的服务一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "家政服务内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想服务怎么收费",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "家政服务内容谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想取消预约订单",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "预约保洁保洁专业",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "推荐内容",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问以前的订单一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问改预约时间一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "项目类型。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "预约时间可以改吗",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "项目项目有哪些",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想预约时间需要调整一下。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "订一个保洁服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想有哪些保洁服务谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "家政内容内容。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我项目价格表",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "清洁服务内容明细",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "取消这个保洁预约",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "需要预定一个保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想取消预约的项目。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "预约不作了。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "项目项目有哪些",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "下个保洁单子",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约家政保洁上门。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想你们提供哪些内容谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我预约家政服务需要什么流程保洁员",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想取消家政",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "服务有哪些类别谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我我想改约时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想改下单时间",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "能不能换一个时间。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想服务价格表",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我取消保洁",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "家政服务内容。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "不做了，取消安排",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "你们提供哪些内容明细",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": " cancellation",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "推荐老客户介绍",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "项目类型谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "以前的订单",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "收费价格",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "保洁推荐一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我有什么服务明细",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "家政项目内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "服务记录谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预约上门保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问预约取消流程",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "项目价格表详细。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我以前的订单谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我请问可以预约保洁吗",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问不做了，取消预约谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "服务项目谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我内容包括哪些内容详情",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我会员服务",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问取消这次下单",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想我想预定一个保洁服务，怎么操作",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "以前的订单一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预约开荒保洁靠谱谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预定需要改期",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "下单时间变了。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "换时间预约一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "下单要改期改",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我预约保洁保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "怎么计费",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问服务种类",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想下单日常保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想预约一次家政",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "下单要改期一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "内容有哪些类别",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我保洁都能做什么",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我推荐几次服务谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "收费价格",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想保洁推荐一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "服务记录",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我预约时间调整推迟",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "服务项目有哪些",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我服务项目有哪些清单一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我清洁预定上门。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "家政服务内容。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我有什么项目清单",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我预定家政项目谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我上次做了什么服务。",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "家政下单。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "内容定价谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问 cancellation。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "安排需要改期谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "会员服务好的。",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问取消预约",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问下单深度保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "上门保洁预约",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "项目推荐。",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "叫一个保洁上门上门",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "叫一个保洁上门正规。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "下周预约保洁内容。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想我的历史订单",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我下单不作了。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "换时间下单",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "请问可以预定保洁吗",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想收费价格谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "推荐家政项目谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "怎么计费",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想预约保洁安排在什么时候一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我我想预定一个保洁项目，怎么操作谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "取消订单谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "改约服务时间谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "有什么好推荐一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我复购项目谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "取消上门项目谢谢",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想取消预约的项目",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想服务包括哪些内容清单",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "项目种类介绍。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我想会员服务",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我预约作废一下",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想杭州预约保洁内容",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约家政保洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想预约家政",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问安排一次保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "取消保洁。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问服务怎么收费",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问安排保洁安排在什么时候",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问有什么内容",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "有什么服务一下",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "收费价格",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "有什么推荐谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "最近的服务推荐一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "服务价格表。",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "请问安排一次保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问预约开荒保洁靠谱一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "怎么计费谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "取消上门内容。",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "杭州预约家政内容一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约时间可以改吗。",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我安排一次保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约时间可以改吗",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "下单清洁谢谢",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "周末安排家政",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我预约开荒保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想内容范围是什么谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "有哪些保洁项目",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "会员内容谢谢",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "最近的服务一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我想预约清洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想我要预约保洁服务",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "我想叫一个保洁上门。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "预约时间变了一下",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我想取消家政",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我想复购服务",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "预定完后怎么付款",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "取消订单",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "请问请问可以预约保洁吗一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问最近的内容看看",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我下单保洁一下",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "之前安排的时间可以改吗",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "我内容记录介绍清洁",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "我上次做了什么服务一下",
+    "expected_intent": "recommendation"
+  },
+  {
+    "original_text": "请问明天预定一个保洁",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "下单的服务能取消吗",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我内容有哪些类别",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我预约清洁服务需要什么流程。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "请问预约时间调整谢谢",
+    "expected_intent": "reschedule"
+  },
+  {
+    "original_text": "取消预约不做了",
+    "expected_intent": "cancel"
+  },
+  {
+    "original_text": "我家政内容内容谢谢",
+    "expected_intent": "consultation"
+  },
+  {
+    "original_text": "我下单保洁。",
+    "expected_intent": "booking"
+  },
+  {
+    "original_text": "费用多少",
+    "expected_intent": "consultation"
+  }
+]
